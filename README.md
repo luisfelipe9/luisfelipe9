@@ -1,4 +1,6 @@
 ## Hi there 👋
+Meu nome é luis felipe, sou estudante 
+Estou estudando no alura 
 
 <!--
 **luisfelipe9/luisfelipe9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
